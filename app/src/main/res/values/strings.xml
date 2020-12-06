@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiJSON</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="genero">Genero</string>
+    <string name="email">Email</string>
+    <string name="localidad">Localidad</string>
+    <string name="tel_fono">Teléfono</string>
+</resources>
